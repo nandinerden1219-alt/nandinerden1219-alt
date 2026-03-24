@@ -1,1 +1,1 @@
-![snake gif](https://raw.githubusercontent.com/nandinerden1219-alt/nandinerden1219-alt/output/github-snake-dark.svg)
+![snake gif](https://github.com/nandinerden1219-alt/nandinerden1219-alt/blob/output/github-snake-dark.svg)
