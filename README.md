@@ -1,4 +1,4 @@
-![snake gif](https://github.com/nandinerden1219-alt/TEST/blob/output/ocean.gif)
+![snake gif](https://github.com/nandinerden1219-alt/nandinerden1219-alt/blob/output/ocean.gif)
 
 
 
